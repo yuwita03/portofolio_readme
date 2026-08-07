@@ -4,7 +4,7 @@
 <img src="assets/Rclp.gif" width="100%" />
 </td>
 <td width="60%" align="left" valign="top">
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=700&size=28&pause=1200&color=7C3AED&vCenter=true&width=500&lines=YURICO+WIDIA+PRANATA;%E9%BB%92%E7%8C%AB%E3%81%A7%E3%81%82%E3%82%8B%EF%BC%81" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=700&size=28&pause=1200&color=7C3AED&vCenter=true&width=500&lines=YURICO+WIDIA+PRANATA;%E5%90%BE%E8%BC%A9%E3%81%AF%E9%BB%92%E7%8C%AB%E3%81%A7%E3%81%82%E3%82%8B!" alt="Typing SVG" />
 <p><span style="color:#6D28D9; font-size:20px">"猫ですからお菓子ちょうだい！"</span><br>
 <sub>— karena kucing hitam juga butuh ngemil sambil ngoding</sub></p>
 <p>Mahasiswa semester 6 Teknik Informatika di <b>UBSI</b>, kucing nyasar jadi Full-Stack / Frontend / Backend Developer. Paling produktif pas kota udah sepi dan lampu neon jadi satu-satunya penerang.</p>
